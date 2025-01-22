@@ -1,31 +1,22 @@
 ---
-title: Lecture 1.2 - A few items about quizzes, Names activity
+title: Lecture 1.2 - A few items about quizzes
 layout: lecture
 tags:
   - overview
   - concepts
 description: >-
- Announcements and Names Activity.
-date: 2024-08-29
+ Info about how Reading Quizzes will work.
+date: 2025-01-27
 ---
 
-<br><br><br>
-# Welcome to Data Storytelling, Day 2!
+<br />
+<br />
+<br />
+
+# A few notes about quizzes
 
 notes:
-welcome back!
-
----
-
-
-<br />
-<br />
-<br />
-
-# A few more notes about quizzes
-
-notes:
-just a few more details about reading quizzes!
+just a few more details about reading quizzes since we have some due dates for those coming up
 
 ---
 
@@ -70,7 +61,7 @@ The link will be on Canvas like so with big bold letters telling you not to clic
 
 <img src="images/example_quiz_canvas_boxtop.png">
 
-Full assessment list: https://us.prairielearn.com/pl/course_instance/157396
+Full assessment list on PrairieLearn: https://us.prairielearn.com/pl/course_instance/172808
 
 
 
@@ -79,63 +70,3 @@ If you want to see the full list of assessments, you can always click on the mai
 
 **stop for questions**
 
----
-
-<br />
-<br />
-<br />
-
-# Names Activity
-
----
-
-## Naming activity & Introduction to Each Other
-
-We'll first give you  ~2 minutes to write down some notes/data about "your" name.  Here "your" name can be your actual name, a nickname for you, the name of a pet, favorite place, etc.
-
-Then we are going to break up into groups, where you'll chat with each other about your *name* (or the name of a place, 
-person, animal, etc that is meaningful to you).
-
-Talk a little about your name.  Does it mean something?  Where does it come from?
-
-Afterward, we'll reconvene, allow for a few people to share a bit, and then we will break back out into our groups.
-
-notes:
-set some timers for these things!
-
----
-
-## Names - Visualization
-
-Now in your groups again, we want you to think about telling a story about names.
-
- * How do we tell a visual story about this?
- * What information -- *data* -- can we obtain about names?
-
-We will break *back* into groups and share this, and sketch out a handful of ideas.
- 
-Questions?
-
-notes:
-**go through and then ask if folks have questions**
-
----
-
-## Names - Visualization
-
-In your groups, we want you to think about telling a story about names.
-
- * How do we tell a visual story about this?
- * What information -- *data* -- can we obtain about names?
-
-We will break *back* into groups and share this, and sketch out a handful of ideas.
-
-A few things:
- 1. one person in your group will need to be logged in to google through your @illinois.edu address
- 1. make sure you are only working on *your group's* board
- 
-**And go!**
-(Check out Miro link)
-
-notes:
-**go through and then ask if folks have questions**
