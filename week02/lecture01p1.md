@@ -78,6 +78,7 @@ in some detail, here are the learning outcomes of this course as in the syllabus
  * Tell well-evidenced stories
 
 notes:
+how can we start from the data to craft a story about what that data means?
 
 ---
 
@@ -92,6 +93,7 @@ notes:
  * Tell well-evidenced stories
 
 notes:
+a bit about how to analyze data beyond just using tools, but asking what kinds of questions/issues might arise when we try to draw conclusions from this data
 
 ---
 
@@ -106,6 +108,7 @@ notes:
  * Tell well-evidenced stories
 
 notes:
+story concepts like plot and chronological structure -- how can we use these to engage with our audience?
 
 ---
 
@@ -120,6 +123,8 @@ notes:
  * Tell well-evidenced stories
 
 notes:
+* no programming req
+* we'll use tools like google data studio (also called looker studio) and powerbi
 
 ---
 
@@ -134,6 +139,7 @@ notes:
  * Tell well-evidenced stories
 
 notes:
+What are some typical flaws in logic that can arise trying to make decisions or arguments with data?
 
 ---
 
@@ -148,6 +154,7 @@ notes:
  * Tell well-evidenced stories
 
 notes:
+How can we make sure your audience gets what you want them to "get" from your presentations
 
 ---
 
@@ -162,7 +169,7 @@ notes:
  * *Tell well-evidenced stories*
 
 notes:
-
+How can we make sure our data stories are both compeling and ethical?
 
 ---
 
