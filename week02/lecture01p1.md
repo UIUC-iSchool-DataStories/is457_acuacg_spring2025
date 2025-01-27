@@ -610,4 +610,4 @@ mention modules
 
 ---
 
-## To Prof. Comstock for an Intro to Storytelling!
+## A quick bit about Quizzes and then on to storytelling!
