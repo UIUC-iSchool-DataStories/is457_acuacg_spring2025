@@ -168,3 +168,74 @@ Bad arguments are not difficult to find in social media.  After reading <a href=
 
 notes:
 ... clearly demonstrates what makes the argument bad (i.e. which logical fallacy(s) are present) and which data hazard(s) are at play?
+
+---
+
+## Step by step, students will:
+
+notes:
+in summary, for this assignment in your groups you will...
+
+---
+
+## Step by step, students will:
+1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
+
+notes:
+**read**
+
+---
+
+## Step by step, students will:
+1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
+2. make a copy of it (with proper citation of authorship, where found, when posted),
+
+notes:
+**read**
+
+---
+
+## Step by step, students will:
+1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
+2. make a copy of it (with proper citation of authorship, where found, when posted),
+3. explain what makes it a bad argument (logical fallacies *and* data hazards present), and
+
+notes:
+**read**
+
+---
+
+## Step by step, students will:
+1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
+2. make a copy of it (with proper citation of authorship, where found, when posted),
+3. explain what makes it a bad argument (logical fallacies *and* data hazards present), and
+4. analyze the tweet (words, image, source, context, etc.) in a 5-7 minute in-class presentation.
+
+
+notes:
+**read**
+
+---
+
+## Step by step, students will:
+1. identify a "bad argument" in social media (tweet, post, etc.) that uses data or data visualization,
+2. make a copy of it (with proper citation of authorship, where found, when posted),
+3. explain what makes it a bad argument (logical fallacies *and* data hazards present), and
+4. analyze the tweet (words, image, source, context, etc.) in a 5-7 minute in-class presentation.
+
+Please include the original tweet in your paper or presentation slides.
+
+
+notes:
+**read**
+
+---
+
+**HERE**
+
+## Tweet Critiques: Things we’re looking for
+
+1. Clarity: Is the bad argument clearly explained?
+2. Data visualization: is the problematic visualization included and explained?
+3. Analysis: Is the bad argument analyzed, in relation to the categories of bad arguments from Almossawi, Data Hazards, and anything else that makes this bad?
+4. Audience engagement: Is there a clear strategy for engaging the audience in the presentation?
