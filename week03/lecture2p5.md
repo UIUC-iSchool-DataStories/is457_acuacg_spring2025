@@ -119,10 +119,46 @@ are interested in exploring.  Think about these things:
  
 Summaries will be posted on the Miro board for this in class activity.
 
+
+notes:
+use about 10 minutes to explore the data together
+
+We'll be pulling from these (and other datasets) for your first minor project next week
+
+1. find interesting data
+1. answer these questions together
+1. you do *not* have to do any visualizations with this data at this step (some of the websites will have their own viz options as well)
+
+**more about this next week and/or later today based on time!!**
+
+---
+
+# Data Sources
+
+We will will divide into groups and explore:
+
+ * data.world
+ * data.gov
+ * data.illinois.gov
+ * data.humdata.org
+
+Prepare an introduction to between one and three datasets you identify that you
+are interested in exploring.  Think about these things:
+
+ * What format is the data in?
+ * What is the type of data (rows, columns, connectivity, etc)
+ * What story might be hidden?
+ 
+Summaries will be posted on the Miro board for this in class activity.
+
+You can use other datasets *however* be sure to check with the instructional team -- not all datasets have stringent enough provenance information to be trusted!
+
 Be prepared to share what you find!
 
 notes:
 use about 10 minutes to explore the data together
+
+We'll be pulling from these (and other datasets) for your first minor project next week
 
 1. find interesting data
 1. answer these questions together
