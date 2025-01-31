@@ -6,7 +6,7 @@ tags:
   - concepts
 description: >-
   Introduction to our first Major Project.
-date: 2025-01-27
+date: 2025-02-03
 ---
 
 <br><br><br>
@@ -17,6 +17,7 @@ notes:
 **ask for a raise of hands**
 
 now is your chance to complain (but in a structured way, and with slides :D)
+
 
 ---
 
