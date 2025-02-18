@@ -475,7 +475,7 @@ notes:
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI)</td>
+            <td>&bull; MiP2: Viz for Villiany (PowerBI)</td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -549,7 +549,7 @@ just to situate ourselves, if we remember how we are using these assignments to 
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI)</td>
+            <td>&bull; MiP2: Viz for Villiany (PowerBI)</td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
