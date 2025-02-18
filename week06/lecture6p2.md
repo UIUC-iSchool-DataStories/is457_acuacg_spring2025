@@ -53,6 +53,12 @@ In this portion of the assignment you will, step by step:
 
 Your visualization **must be "villainous" and not just "bad"** -- be sure to reference the reading and video when discussing this distinction and how it applies to your chosen viz. (We will have an in-class activity that guides groups through this.) 
 
+You will receive feedback on your proposal -- *we expect you to address all feedback in your final submission*.
+
+---
+
+HERE -- MiP2b
+
 ---
 
 ## Final Data Stories -- Building Block Assignments
@@ -375,6 +381,6 @@ Your visualization **must be "villainous" and not just "bad"** -- be sure to ref
 </br></br>
 <ul>
     <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
-    <li><div id="theDiv"><font color='blue'>Group Set 2</font></div>: random selection</li>
+    <li><div id="theDiv"><font color='blue'>Group Set 2</font></div>: random selection -- Group Set 2 is already on Canvas</li>
     <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
 </ul>
