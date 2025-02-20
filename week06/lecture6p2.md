@@ -254,7 +254,106 @@ even if you get a good score on this portion of the assessment, be sure to check
 
 ---
 
-HERE -- MiP2b
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+notes:
+after you get feedback, you'll work on your final submission 
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+
+notes:
+your submission here will include
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+ * Your new visualization, created with your group, using the same data as the "villainous" viz
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+ * Your new visualization, created with your group, using the same data as the "villainous" viz
+ * A brief narrative document with a critique of the original viz and motivations for your updates
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+ * Your new visualization, created with your group, using the same data as the "villainous" viz
+ * A brief narrative document with a critique of the original viz and motivations for your updates
+
+**Be sure to:**
+
+notes:
+you will also want to take care to include in your narrative document...
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+ * Your new visualization, created with your group, using the same data as the "villainous" viz
+ * A brief narrative document with a critique of the original viz and motivations for your updates
+
+**Be sure to:**
+ * Include evidence in your write-up for why the original visualization is bad (e.g., Viz for Villainy reading/video) and why your new visualization is an improvement (e.g., Knaflic)
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+ * Your new visualization, created with your group, using the same data as the "villainous" viz
+ * A brief narrative document with a critique of the original viz and motivations for your updates
+
+**Be sure to:**
+ * Include evidence in your write-up for why the original visualization is bad (e.g., Viz for Villainy reading/video) and why your new visualization is an improvement (e.g., Knaflic)
+ * Address all elements of the feedback you got on your proposal (*even if you got a perfect score on your proposal*)
+
+notes:
+also be sure to address all feedback!
+
+---
+
+## (Against) Visualization for Villainy
+
+### MiP2b: Final Submission
+
+Your submission will include:
+ * Your new visualization, created with your group, using the same data as the "villainous" viz
+ * A brief narrative document with a critique of the original viz and motivations for your updates
+
+**Be sure to:**
+ * Include evidence in your write-up for why the original visualization is bad (e.g., Viz for Villainy reading/video) and why your new visualization is an improvement (e.g., Knaflic)
+ * Address all elements of the feedback you got on your proposal (*even if you got a perfect score on your proposal*)
+
+**See Rubric in MiP2b on Canvas for details on grading.**
+
+notes:
+see rubric!
 
 ---
 
