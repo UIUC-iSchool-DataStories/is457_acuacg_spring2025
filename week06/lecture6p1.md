@@ -11,3 +11,4 @@ date: 2025-02-24
 
 ---
 
+<embed src="https://www.data-to-viz.com/#spider" style="width:100%; height:80vh">
