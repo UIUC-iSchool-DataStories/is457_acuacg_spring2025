@@ -416,7 +416,7 @@ see rubric!
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (PowerBI)</td>
+            <td>&bull; MiP2: Viz for Villainy (PowerBI)</td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -425,6 +425,9 @@ see rubric!
 
 * MP = Major Project (expect significant out-of-class time)
 * MiP = Minor Project (some in class/some out of class time)
+
+notes:
+just to situate us in where this minor project sits with respect to our working toward the final projects
 
 ---
 
@@ -487,7 +490,7 @@ see rubric!
         </tr>
         <tr>
             <td></td>
-            <td>&bull; <font color='red'>MiP2: Viz for Villiany (PowerBI)</font></td>
+            <td>&bull; <font color='red'>MiP2: Viz for Villainy (PowerBI)</font></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -496,6 +499,9 @@ see rubric!
 
 * MP = Major Project (expect significant out-of-class time)
 * MiP = Minor Project (some in class/some out of class time)
+
+notes:
+the purpose of this assignment is to get some practice with visualization tools and data analysis that you might want to use for your final presentation
 
 ---
 
@@ -589,6 +595,9 @@ see rubric!
     <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
 </ul>
 
+notes:
+also, in terms of groups...
+
 ---
 
 ## Group Structure
@@ -680,3 +689,109 @@ see rubric!
     <li><div id="theDiv"><font color='blue'>Group Set 2</font></div>: random selection -- Group Set 2 is already on Canvas</li>
     <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
 </ul>
+
+notes:
+
+... this assignment will utilize a new group, group set 2
+
+these groups have already been formed randomly, and are found under the "People" tab in Canvas (just make sure its Group Set 2 and not 1 for this assignment)
+
+---
+
+## Group Structure
+
+<style>
+.table_component {
+    overflow: auto;
+    width: 100%;
+}
+
+.table_component table {
+    border: 0px none #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+}
+
+.table_component caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.table_component th {
+    border: 1px none #dededf;
+    background-color: #eceff1;
+    color: #000000;
+    padding: 5px;
+}
+
+.table_component td {
+    border: 1px none #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+
+#theDiv {
+  width: 130px;
+  border: solid blue 2px;
+  display: inline;
+}
+
+#theDiv2 {
+  width: 150px;
+  border: solid blue 2px;
+  display: inline;
+}
+</style>
+
+<div class="table_component" role="region" tabindex="0">
+<table border="0">
+    <thead>
+        <tr>
+            <th>Presentation Practice & Skills</th>
+            <th>Data Analysis & Viz Tools</th>
+            <th>Story Structure & Theory</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&bull; MP1: Tweet Critique </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; MiP1: Google Data Studio (GDS) </br><font color="red">(Group Set 1)</font></td>
+            <td>&bull; Readings (theory)</td>
+        </tr>
+        <tr>
+            <td>&bull; MiP3: Community Data Story </br><font color="magenta">(Group Set 3)</font></td>
+            <td>&bull; In class activities (PowerBI/GDS)</td>
+            <td>&bull; In class activities (structure/theory practice)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><div id="theDiv2"><font color="blue">(Group Set 2)</font></div></td>
+            <td>&bull; MiP4: Twine storyboarding</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<ul>
+    <li>MP = Major Project (expect significant out-of-class time)</li>
+    <li>MiP = Minor Project (some in class/some out of class time)</li>
+</ul>
+</br></br>
+<ul>
+    <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
+    <li><div id="theDiv"><font color='blue'>Group Set 2</font></div>: random selection -- Group Set 2 is already on Canvas</li>
+    <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
+</ul>
+
+There will be another Group Contract required for the new group (but you can reuse text from your last contract).
+
+notes:
+
+note -- there will be another group contract due!
+
+you can reuse text from your last contract, just be sure to be clear about where you are citing from!
