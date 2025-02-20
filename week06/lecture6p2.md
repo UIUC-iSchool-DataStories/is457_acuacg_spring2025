@@ -577,7 +577,7 @@ the purpose of this assignment is to get some practice with visualization tools 
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><div id="theDiv21"><font color="blue">(Group Set 2)</font></div></td>
+            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><div id="theDiv21"><font color="blue">(Group Set 2)</font></div></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -672,7 +672,7 @@ also, in terms of groups...
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><div id="theDiv2"><font color="blue">(Group Set 2)</font></div></td>
+            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><div id="theDiv2"><font color="blue">(Group Set 2)</font></div></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -770,7 +770,7 @@ these groups have already been formed randomly, and are found under the "People"
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villiany (GDS/PowerBI) </br><div id="theDiv2"><font color="blue">(Group Set 2)</font></div></td>
+            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><div id="theDiv2"><font color="blue">(Group Set 2)</font></div></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
