@@ -218,4 +218,198 @@ note -- some of them are hard to read, but you can hover over many of them for e
 
 ---
 
+<br/><br/><br/>
+# Designing a Good Viz: Part 2
+## How do we avoid misleading folks?
+
+notes:
+
+let's say we've figured out what visual representation we want to use -- so, we've chosen the right plot for our data
+
+how do we avoid misleading folks?
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. **Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.
+
+2. **Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.
+
+3. **Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.
+
+4. **Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings. 
+
+5. **Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).
+
+6. **Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+so someone you should probably know about is Edward Tufte who's pretty famous in design
+
+while we won't have time to go through all of these principles in detail... 
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. <font color='gray'>**Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.</font>
+
+2. <font color='gray'>**Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.</font>
+
+3. <font color='gray'>**Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.</font>
+
+4. <font color='gray'>**Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings.</font> 
+
+5. <font color='gray'>**Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).</font>
+
+6. <font color='gray'>**Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.</font>
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+let's do a quick overview
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. **Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.
+
+2. <font color='gray'>**Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.</font>
+
+3. <font color='gray'>**Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.</font>
+
+4. <font color='gray'>**Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings.</font> 
+
+5. <font color='gray'>**Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).</font>
+
+6. <font color='gray'>**Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.</font>
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. <font color='gray'>**Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.</font>
+
+2. **Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.
+
+3. <font color='gray'>**Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.</font>
+
+4. <font color='gray'>**Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings.</font> 
+
+5. <font color='gray'>**Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).</font>
+
+6. <font color='gray'>**Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.</font>
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. <font color='gray'>**Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.</font>
+
+2. <font color='gray'>**Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.</font>
+
+3. **Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.
+
+4. <font color='gray'>**Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings.</font> 
+
+5. <font color='gray'>**Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).</font>
+
+6. <font color='gray'>**Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.</font>
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. <font color='gray'>**Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.</font>
+
+2. <font color='gray'>**Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.</font>
+
+3. <font color='gray'>**Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.</font>
+
+4. **Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings. 
+
+5. <font color='gray'>**Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).</font>
+
+6. <font color='gray'>**Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.</font>
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. <font color='gray'>**Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.</font>
+
+2. <font color='gray'>**Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.</font>
+
+3. <font color='gray'>**Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.</font>
+
+4. <font color='gray'>**Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings.</font> 
+
+5. **Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).
+
+6. <font color='gray'>**Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.</font>
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+1. <font color='gray'>**Comparisons:**  Show data by comparisons (bar charts and the like) to depict contrasts and differences between dependent variables.</font>
+
+2. <font color='gray'>**Causality:**  Demonstrate how one or more independent variables impact or influence dependent variables.</font>
+
+3. <font color='gray'>**Multivariate:** Various data are combined so an audience can easily interpret an otherwise complex narrative.</font>
+
+4. <font color='gray'>**Integration:**  Incorporate various modes of information (texts, maps, calculations, diagrams, etc.), to show evidence of source data-to-findings.</font> 
+
+5. <font color='gray'>**Documentation:**  For credibility, include attribution, detailed titles, and measurements (scales).</font>
+
+6. **Context:** Describe or depict the before and after state. Show trend lines to hint at results in the future.
+
+Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/).
+
+notes:
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240513134644/Pic-1.jpeg" width="80%">
+
+notes:
+you'll often see representations like this which are more of a list things to not do
+
+---
+
+## Tufte's 6 Principles for Graphical Excellence
+
+<img src="images/tufte/g4g_dataInkRatio.jpeg" width="80%">
+
+notes:
+for example, "maximize data-ink ratio"
+
+---
+
 <embed src="https://www.data-to-viz.com/caveats.html" style="width:100%; height:80vh">
