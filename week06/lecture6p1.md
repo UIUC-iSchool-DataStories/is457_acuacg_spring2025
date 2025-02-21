@@ -6,7 +6,8 @@ description: >-
 date: 2025-02-24
 ---
 
-<br/><br/><br/>
+<br><br/> <br><br/> <br/>
+
 # Designing a Good Viz
 
 notes:
@@ -23,6 +24,15 @@ How to make a good viz:
 2. Part 2: designing your viz
   * some of tufte
   * go through caveats webpage
+
+---
+
+<br/><br/><br/>
+# Designing a Good Viz: Part 1
+## Perception Channels & Types of Plots
+
+notes:
+first, let's understand how humans actually translate different kinds of visuals into knowledge about the data being presented and how that relates to different kinds of plots or charts
 
 ---
 
@@ -178,10 +188,33 @@ Caption: Chart used by responsible analysts who understand the power of segmenta
 notes:
 and suggests something like a histogram/barchart is for use by very serious analysts :D
 
+---
+
+## What kinds of plots should we use with what kinds of data?
+
+Under "PowerBI Resources" on Canvas
+
+<img src="images/viz_resources.png">
+
+notes:
+while you can find such snarky advise all over the internet, it might be useful for us to have a somewhat structured way to figure out what kind of plot to consider playing with with what kind of data
+
+some resources for this are under the "PowerBI Resources" Module on Canvas...
 
 ---
 
 <embed src="https://www.data-to-viz.com/#spider" style="width:100%; height:80vh">
+
+notes:
+the first one is the "Visualization Picker"
+
+hit "Explore" to see some suggestions for what kinds of visualizations we should use with what kinds of data
+
+**go through the 1 column of numerical data**
+
+**then have students select numeric, categorical, etc and then select other options**
+
+note -- some of them are hard to read, but you can hover over many of them for examples
 
 ---
 
