@@ -141,19 +141,43 @@ for example, this is a pretty silly chart...
 
 ## What kinds of plots should we use with what kinds of data?
 
+<!--
 <style>
-img {
+.container {
+  position: relative;
+}
+#clip {
   position: absolute;
-  clip: rect(0px,60px,200px,0px);
+  clip: rect(0, 100px, 200px, 0);
+  /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
 }
 </style>
 
-<img src="https://formations.imt-atlantique.fr/data_storytelling/images/ds/charts_types.jpg"/>
+<div class="container">
+  <img id="clip" src="https://formations.imt-atlantique.fr/data_storytelling/images/ds/charts_types.jpg" />
+</div>
+-->
+
+<img src="images/types_of_charts/pie_chart.png">
+
+Caption: Extremely useful when creating a well designed document that is intended to people that will not read the data (e.g. management)
+
+
 
 notes:
-the short answer, is it depends but you'll definitely find suggestions from various folks out there
+for example, it suggests that pie charts are good for management since that is a chart they are used to seeing...
 
-for example, this is a pretty silly chart...
+---
+
+## What kinds of plots should we use with what kinds of data?
+
+<img src="images/types_of_charts/histogram.png">
+
+Caption: Chart used by responsible analysts who understand the power of segmentation and the sadness that comes from aggregating data.
+
+notes:
+and suggests something like a histogram/barchart is for use by very serious analysts :D
+
 
 ---
 
