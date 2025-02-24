@@ -249,7 +249,7 @@ Excerpt from [ISDI](https://internationalservicedesigninstitute.com/tuftes-6-pri
 notes:
 so someone you should probably know about is Edward Tufte who's pretty famous in design
 
-while we won't have time to go through all of these principles in detail... 
+while we won't have time to go through all of these principles in detail today (you'll get them in reading Knaflic over the next couple of weeks)... 
 
 ---
 
