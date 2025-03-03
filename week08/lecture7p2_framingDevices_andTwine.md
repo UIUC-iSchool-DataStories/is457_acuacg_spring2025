@@ -326,7 +326,28 @@ experienced and guided.
 
 ---
 
-## Twine
+## Twine: An example
+
+Twine is a way to build interactive narratives in the browser, that can be experienced and guided.
+
+This is also a way to "storyboard" our Data Story presentations (totally optional!).
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/Fp9Sxiv-O-0?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+notes:
+
+we'll use twine to explore these ideas about how to implement these in more detail!
+
+We'll start looking at this now and then get to play with it more next week as well
+
+Video info:
+* starts at the intro to twine
+* let it run until ~1.5 minutes, then click around a bit
+* then go to next slide for history
+
+---
+
+## Twine: History
 
 Twine is a way to build interactive narratives in the browser, that can be experienced and guided.
 
@@ -339,4 +360,25 @@ we'll use twine to explore these ideas about how to implement these in more deta
 
 We started doing this last week and we'll get a chance to work on these more now.
 
-(this was the video we watched before -- starts at 6:22- about 7:59/8)
+Video info:
+* auto starts at 6:22 until about 7:59/8 is the history of twine
+
+---
+
+## Twine: Resources
+
+<img src="images/twineIntro/twineResources.png">
+
+notes:
+We have a set of resources for you to check out for twine -- while we won't be covering how to incorporate JavaScript in twine, there are a set of tutorials about how to do so at these resources, so feel free to check them out if you want to!
+
+---
+
+## Twine: Other Examples
+
+* [Cat Petting Simulator](https://neongrey.itch.io/pet-that-cat)
+* [Rainy Day](https://thaisa.itch.io/rainy-day)
+* [Temple of No](https://itch.io/queue/c/314317/twine-examples?game_id=72357)
+
+notes:
+for temple of no -- be sure to click on the underlined words!
