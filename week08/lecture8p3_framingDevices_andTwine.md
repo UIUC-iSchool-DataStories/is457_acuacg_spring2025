@@ -44,14 +44,18 @@ of introduction -- concepts, ideas, setting, are introduced
 
 ## Framing Devices Example
 
+<!--
 <iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 768px; height: 600px;" src="https://getyarn.io/yarn-clip/embed/cc875f97-6042-4c9b-861a-614c32cc08f2?autoplay=false?rel=0"> </iframe>
+-->
+
+<iframe width="1120" height="630" src="https://www.youtube-nocookie.com/embed/CLRdZuYBjr8?si=h9pTln9BGDLqjnr5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 notes:
 for example, from this great movie waynes world
 
 ** play clip**
 
-this was a quick clip, but it in what follows, Wayne introduces himself and then tells us a bit about where he lives and his general life there by giving us *context* for the rest of the movie
+** stop after hairnets joke**
 
 ---
 
@@ -323,6 +327,11 @@ Going forward in the class we are going to use Twine (and a bit of Google Data S
 
 Twine is a way to build interactive narratives in the browser, that can be
 experienced and guided.
+
+**You will be using Twine for MiP4 in the coming weeks.**
+
+notes:
+**be sure to call out MiP4!**
 
 ---
 
