@@ -1,5 +1,5 @@
 ---
-title: Lecture 8.2 -- Framing Devices & Intro to Twine
+title: Lecture 8.3 -- Framing Devices & Intro to Twine
 layout: lecture
 tags:
   - framing devices
