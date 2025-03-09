@@ -317,6 +317,14 @@ how interactive?
  * again, thinking about how much you want your audience to be able to control and in what order -- this choice might be audience-dependent!
 
 
+---
+
+## Twine
+
+Going forward in the class we are going to use Twine (and a bit of Google Data Studio & PowerBI with in Twine).
+
+Twine is a way to build interactive narratives in the browser, that can be
+experienced and guided.
 
 
 ---
