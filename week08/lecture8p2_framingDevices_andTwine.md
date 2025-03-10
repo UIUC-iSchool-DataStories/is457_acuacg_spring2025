@@ -325,7 +325,7 @@ Going forward in the class we are going to use Twine (and a bit of Google Data S
 
 Twine is a way to build interactive narratives in the browser, that can be
 experienced and guided.
-gi
+
 
 ---
 
