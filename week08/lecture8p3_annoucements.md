@@ -11,7 +11,8 @@ date: 2025-03-10
 1. Spring break next week, no classes!
 1. Feedback on MiP2a (we'll have time to look at this in groups later)
 1. General Feedback Survey is "live"
-1. Group Set 3 (Final Data Stories) sign up is live -- due morning of 3/24 
+1. Group Set 3 (Final Data Stories) sign up is live -- due by **10am** on 3/24 
+  * intro to Final Data Stories
 
 notes:
 we'll go over each of these
@@ -80,6 +81,15 @@ constructive feedback most welcome!
 <br/>
 
 ## Final Data Stories & Group Set 3
+
+---
+
+## Quick Intro to Final Data Stories
+
+1. MP2a: Final Data Story Proposal -- Abstract & Talk Outline
+
+notes:
+you'll want to read the syllabus in detail for more info, but let's take a look at
 
 ---
 
@@ -363,9 +373,11 @@ just as a reminder of sort of where we are with our building blocks and groups..
 
 notes:
 
-... this assignment will utilize a new group, group set 2
+... this assignment will utilize a new group, group set 3
 
-these groups have already been formed randomly, and are found under the "People" tab in Canvas (just make sure its Group Set 2 and not 1 for this assignment)
+these groups will be chosen by you as described
+
+**be aware** you'll also have a chance to practice with this group for the community data story minor project (more on that after break)
 
 ---
 
