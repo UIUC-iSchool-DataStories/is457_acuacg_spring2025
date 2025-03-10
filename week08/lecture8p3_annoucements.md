@@ -87,6 +87,7 @@ constructive feedback most welcome!
 ## Quick Intro to Final Data Stories
 
 1. MP2a: Final Data Story Proposal -- Abstract & Talk Outline
+1. MP2b: Final Data Story -- in class, po
 
 notes:
 you'll want to read the syllabus in detail for more info, but let's take a look at
