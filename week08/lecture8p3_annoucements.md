@@ -177,7 +177,7 @@ just as a reminder of sort of where we are with our building blocks and groups..
 
 ---
 
-## Group Structure
+## <div id="theDiv3p1">Final Data Stories</div> -- Building Block Assignments & Groups
 
 <style>
 .table_component {
@@ -216,13 +216,19 @@ just as a reminder of sort of where we are with our building blocks and groups..
 
 #theDiv1p1 {
   width: 130px;
-  border: solid blue 2px;
+  border: solid magenta 2px;
   display: inline;
 }
 
 #theDiv2p1 {
   width: 150px;
-  border: solid blue 2px;
+  border: solid magenta 2px;
+  display: inline;
+}
+
+#theDiv3p1 {
+  width: 150px;
+  border: solid magenta 2px;
   display: inline;
 }
 </style>
@@ -243,13 +249,13 @@ just as a reminder of sort of where we are with our building blocks and groups..
             <td>&bull; Readings (theory)</td>
         </tr>
         <tr>
-            <td>&bull; MiP3: Community Data Story </br><font color="magenta">(Group Set 3)</font></td>
+            <td>&bull; MiP3: Community Data Story </br><div id="theDiv2p1"><font color="magenta">(Group Set 3)</font></div></td>
             <td>&bull; In class activities (PowerBI/GDS)</td>
             <td>&bull; In class activities (structure/theory practice)</td>
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><div id="theDiv2p1"><font color="blue">(Group Set 2)</font></div></td>
+            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><font color="blue">(Group Set 2)</font></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -263,8 +269,8 @@ just as a reminder of sort of where we are with our building blocks and groups..
 </br></br>
 <ul>
     <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
-    <li><div id="theDiv1p1"><font color='blue'>Group Set 2</font></div>: random selection -- Group Set 2 is already on Canvas</li>
-    <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
+    <li><font color='blue'>Group Set 2</font>: random selection -- Group Set 2 is already on Canvas</li>
+    <li><div id="theDiv1p1"><font color='magenta'>Group Set 3</font></div>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
 </ul>
 
 notes:
@@ -275,7 +281,7 @@ these groups have already been formed randomly, and are found under the "People"
 
 ---
 
-## Group Structure
+## <div id="theDiv3p2">Final Data Stories</div> -- Building Block Assignments & Groups
 
 <style>
 .table_component {
@@ -312,15 +318,21 @@ these groups have already been formed randomly, and are found under the "People"
     padding: 5px;
 }
 
-#theDiv {
+#theDiv1p2 {
   width: 130px;
-  border: solid blue 2px;
+  border: solid magenta 2px;
   display: inline;
 }
 
-#theDiv2 {
+#theDiv2p2 {
   width: 150px;
-  border: solid blue 2px;
+  border: solid magenta 2px;
+  display: inline;
+}
+
+#theDiv3p2 {
+  width: 150px;
+  border: solid magenta 2px;
   display: inline;
 }
 </style>
@@ -341,13 +353,13 @@ these groups have already been formed randomly, and are found under the "People"
             <td>&bull; Readings (theory)</td>
         </tr>
         <tr>
-            <td>&bull; MiP3: Community Data Story </br><font color="magenta">(Group Set 3)</font></td>
+            <td>&bull; MiP3: Community Data Story </br><div id="theDiv2p2"><font color="magenta">(Group Set 3)</font></div></td>
             <td>&bull; In class activities (PowerBI/GDS)</td>
             <td>&bull; In class activities (structure/theory practice)</td>
         </tr>
         <tr>
             <td></td>
-            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><div id="theDiv2"><font color="blue">(Group Set 2)</font></div></td>
+            <td>&bull; MiP2: Viz for Villainy (GDS/PowerBI) </br><font color="blue">(Group Set 2)</font></td>
             <td>&bull; MiP4: Twine storyboarding</td>
         </tr>
     </tbody>
@@ -361,11 +373,12 @@ these groups have already been formed randomly, and are found under the "People"
 </br></br>
 <ul>
     <li><font color='red'>Group Set 1</font>: chosen by "astromimicry"</li>
-    <li><div id="theDiv"><font color='blue'>Group Set 2</font></div>: random selection -- Group Set 2 is already on Canvas</li>
-    <li><font color='magenta'>Group Set 3</font>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
+    <li><font color='blue'>Group Set 2</font>: random selection -- Group Set 2 is already on Canvas</li>
+    <li><div id="theDiv1p2"><font color='magenta'>Group Set 3</font></div>: self-selection (+ instructor selection for students who do not choose a group), groups will also be used for MP2: Final Data Stories</li>
 </ul>
 
 There will be another Group Contract required for the new group (but you can reuse text from your last contract).
+
 
 notes:
 
