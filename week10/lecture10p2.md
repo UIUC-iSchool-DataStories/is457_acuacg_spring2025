@@ -17,7 +17,7 @@ date: 2025-03-24
  * Hybrid
  
 notes:
-recall we discussed this ~2 weeks ago with our Framing Devices lecture, and we touched on this in Prof. McDowell's Storyboarding lecture.
+recall we discussed this ~2 weeks ago with our Framing Devices lecture, ~~and we touched on this in Prof. McDowell's Storyboarding lecture.~~
 
 We had a discussion about framing devices -- i.e. how we "set the stage" for our listener/viewer to engage with our data story
 
@@ -58,7 +58,7 @@ real quick, here are some cool examples from a more narrative representation (Be
 
 notes:
 
-So, sometimes the amount of navigatability is chosen by our frame, but generally this is something we want to think carefully about and make specific choices when we can.
+So, sometimes the amount of navigability is chosen by our frame, but generally this is something we want to think carefully about and make specific choices when we can.
 
 I.e. we want to be very careful in deciding how much control do we want to give our audience in the exploration of the story?
 
@@ -143,7 +143,7 @@ but why? well visualizations are powerful and in what they can communicate and h
 
 ## Visualization as a reading strategy
 
-<img src="images/matts_picture.png">
+<img src="images/data_narratives/matts_picture.png">
 - Prof. Matt Turk's fantastic drawing
 
 notes:
@@ -391,7 +391,7 @@ for us, let's think about scenes in the context of someone investigating an onli
 
 ## Linearity
 
-<img src="images/linearity.png">
+<img src="images/data_narratives/linearity.png">
 
 <b><u>A</u></b> leads to <b><u>B</u></b> which leads to <b><u>C</u></b> for *temporal* reasons.
 
@@ -406,7 +406,7 @@ this is different from causal where A *causes* B *causes* C
 
 ## Linearity
 
-<img src="images/linearity.png">
+<img src="images/data_narratives/linearity.png">
 
 <b><u>A</u></b> leads to <b><u>B</u></b> which leads to <b><u>C</u></b> for *temporal* reasons.
 
@@ -445,7 +445,7 @@ but if I started off explaining all the data points here in the far right image,
 
 ## Interactivity
 
-<img src="images/interactive.png">
+<img src="images/data_narratives/interactive.png">
 
 Interactivity from a *storytelling* perspective.
 
@@ -459,7 +459,7 @@ but this is a bit different -- this is interactive based on the *storytelling pe
 
 ## Interactivity
 
-<img src="images/interactive.png" height="300px">
+<img src="images/data_narratives/interactive.png" height="300px">
 
 <div class="left">
 Interactivity from a *storytelling* perspective.
@@ -477,7 +477,7 @@ this is what we'll be practicing with Twine for the next few weeks in class
 
 ## Causality
 
-<img src="images/causality.png">
+<img src="images/data_narratives/causality.png">
 
 <b><u>B</u></b> is *caused* by <b><u>A</u></b>.  <b><u>C</u></b> and <b><u>D</u></b> are caused by <b><u>B</u></b>.
 
@@ -503,7 +503,7 @@ if you changed the beginning -- if you made the moon 2 pixels in size then the r
 
 ## Details/Zoom-ability/Perspective
 
-<img src="images/details.png">
+<img src="images/data_narratives/details.png">
 
 Here Scene <b><u>D</u></b> can be "zoomed into" to explore different sub-topics.
 
@@ -522,12 +522,10 @@ Twine is a way to build interactive narratives in the browser, that can be exper
 
 This is also a way to "storyboard" our Data Story presentations (totally optional!).
 
-<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/Fp9Sxiv-O-0?start=382" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 notes:
 we'll use twine to explore these ideas about how to implement these in more detail!
 
 We started doing this last week and we'll get a chance to work on these more now.
 
-(this was the video we watched before -- starts at 6:22- about 7:59/8)
 
