@@ -1,7 +1,7 @@
 ---
 layout: week
-icon: undraw_data-points_1q5h.svg
+icon: undraw_conference_3n82.svg
 visible: true
 ---
 
-# Week 14 TBD
+# Week 14 - Final Considerations for Data Stories with Prof. McDowell

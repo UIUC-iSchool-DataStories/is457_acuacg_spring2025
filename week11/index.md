@@ -1,9 +1,8 @@
 ---
 layout: week
-icon: undraw_data-points_1q5h.svg
+icon: undraw_detailed-examination_63b9.svg
 visible: true
 ---
 
-# Week 11 TBD
+# Week 11 - Framing Devices, Twine & Peer Review
 
-TBD

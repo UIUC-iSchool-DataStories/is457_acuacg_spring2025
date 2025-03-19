@@ -1,7 +1,7 @@
 ---
 layout: week
-icon: undraw_data-points_1q5h.svg
+icon: undraw_data-reports_uylc.svg
 visible: true
 ---
 
-# Week 13 TBD
+# Week 13 - Community Data Story Presentations

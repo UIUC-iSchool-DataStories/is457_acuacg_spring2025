@@ -7,4 +7,3 @@ visible: true
 # Week 10 - Twine & Data Narratives
 
 An introduction to Twine: twinery.org
-s
