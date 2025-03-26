@@ -372,7 +372,7 @@ captions.
 
 ---
 
-<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.003.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" -->
+<!-- .slide: data-background-image="images/example_breakdown_slides/short_tpdl_example_is457.003.png" data-background-size="auto 95%" data-background-position="right 50% bottom 50%" alt="link to PDF version of slides here:" -->
 
 notes:
 Our corpus of interest is the historical astrophysics literature with the initial dataset containing ~50k scanned pages, but with the potential total corpus encompassing about 3 Million articles of 5-10 pages each.
